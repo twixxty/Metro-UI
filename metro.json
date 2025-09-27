@@ -2,7 +2,8 @@
     "manifest": {
         "author": "twixxty",
         "version": "1.0.0",
-        "name": "metro"
+        "name": "metro",
+        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Metro-UI\/refs\/heads\/main\/metro.json"
     },
     "background": {},
     "fonts": {
@@ -25,7 +26,7 @@
         "uikit_btn_bg_color_selector_red": -16777216,
         "primary_dark_200": -1,
         "primary_dark_360": -1241513985,
-        "white_800": -14542315,
+        "white_800": -16251387,
         "primary_dark_330": -6974059,
         "primary_dark_660": -16777216
     },
