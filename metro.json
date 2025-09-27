@@ -1,0 +1,36 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "version": "1.0.0",
+        "name": "metro"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/twixxty\/Metro-UI\/raw\/refs\/heads\/main\/Segoe%20UI.ttf",
+        "ginto_medium": "https:\/\/github.com\/twixxty\/Metro-UI\/raw\/refs\/heads\/main\/Segoe%20UI%Bold.ttf",
+        "ginto_regular": "https:\/\/github.com\/twixxty\/Metro-UI\/raw\/refs\/heads\/main\/Segoe%20UI.ttf",
+        "whitney_bold": "https:\/\/github.com\/twixxty\/Metro-UI\/raw\/refs\/heads\/main\/Segoe%20UI.ttf",
+        "whitney_medium": "https:\/\/github.com\/twixxty\/Metro-UI\/raw\/refs\/heads\/main\/Segoe%20UI%Bold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/twixxty\/Metro-UI\/raw\/refs\/heads\/main\/Segoe%20UI.ttf"
+    },
+    "simple_colors": {
+        "statusbar": 1577753,
+        "background_secondary": -16777216,
+        "background": -16777216,
+        "mention_highlight": 1828817153,
+        "accent": -16676607,
+        "active_channel": 6046000
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -16777216,
+        "primary_dark_200": -1,
+        "primary_dark_360": -1241513985,
+        "white_800": -14542315,
+        "primary_dark_330": -6974059,
+        "primary_dark_660": -16777216
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -16777216
+    },
+    "raws": {}
+}
